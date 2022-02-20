@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": "27",
+      "title": "Áo sơ mi 2022",
+      "img": "http://res.cloudinary.com/ecommercer2021/image/upload/v1645239013/awnjkklpzpp7kxsrofuj.jpg",
+      "desc": "áo mới ",
+      "price": "265.000 Đ"
+    },
+    {
+      "id": "31",
+      "title": "Áo phông mới",
+      "img": "http://res.cloudinary.com/ecommercer2021/image/upload/v1645239074/gynezm7d42jlt24yqeah.jpg",
+      "desc": "Áo phông ",
+      "price": "265.000 Đ"
+    },
+    {
+      "id": "32",
+      "title": "Áo sơ mi ",
+      "img": "http://res.cloudinary.com/ecommercer2021/image/upload/v1645155750/wpbxhsm9syxc0eu7sugl.jpg",
+      "desc": "Áo sơ mi trơn 2022",
+      "price": "265.000 Đ"
+    },
+    {
+      "id": "35",
+      "title": "Áo khoác nam",
+      "img": "http://res.cloudinary.com/ecommercer2021/image/upload/v1645155801/qfc1pz97u6tjxpnv8vt8.jpg",
+      "desc": "Áo khoác nam 2022"
+    },
+    {
+      "id": "36",
+      "title": "Áo thun nam",
+      "img": "http://res.cloudinary.com/ecommercer2021/image/upload/v1645155845/sm9z1lznikd30bfpqagv.jpg",
+      "desc": "Áo thun cao cấp nam 2022",
+      "price": "265.000 Đ"
+    },
+    {
+      "id": "N5GvQx2",
+      "title": "Áo nam",
+      "img": "http://res.cloudinary.com/ecommercer2021/image/upload/v1645154510/ehr3t92edaozbrep7yjg.jpg",
+      "desc": "áo nam ",
+      "price": "265.000 Đ"
+    },
+    {
+      "title": "Áo thun thể thao nam",
+      "img": "http://res.cloudinary.com/dixysmopg/image/upload/v1644930594/v2alfcwv7j9ypabxghcb.jpg",
+      "desc": "Áo thun nam đen cotton cao cấp AXH-143 là mẫu áo thun mới nhất dành cho mùa hè năm nay. Áo được thiết kế tối giản trẻ trung với dáng suông, cổ tròn thoáng mát. Áo làm từ vải 95% cotton cao cấp thoáng mát, thấm hồ môi tốt, và tăng độ bền. Áo có màu đen kết hợp ghi nhẹ nhàng rất phù hợp với những chuyến đi chơi, đi du lịch.",
+      "id": "2cmA2lV",
+      "price": "265.000 Đ"
+    },
+    {
+      "title": "Áo thun nam",
+      "img": "http://res.cloudinary.com/dixysmopg/image/upload/v1645067734/eak2lktvnylylrj1s1oo.jpg",
+      "desc": "áo thời trang 2022",
+      "id": "jWtiqHo",
+      "price": "265.000 Đ"
+    },
+    {
+      "title": "Áo thun nam",
+      "img": "http://res.cloudinary.com/dixysmopg/image/upload/v1645339902/tkhnfxafewwz4l2n5h1a.jpg",
+      "desc": "",
+      "id": "4GSvWU4",
+      "price": "265.000 Đ"
+    }
+  ],
+  "products": [],
+  "users": [
+    {
+      "email": "minhquan22012@gmail.com",
+      "password": "$2a$10$EXrROBjiUCb3Hf/9yQIwN.Xaaqg5K82RM.6wjR80IxKGNCVNc1xIy",
+      "username": "vanquan",
+      "id": 1
+    },
+    {
+      "email": "quanlvph17984@gmail.com",
+      "password": "$2a$10$OomjOBUOL2X9UcUoV.Qu8eznkSl69f4yIJR/ZQNvFGSluDaibCzOe",
+      "username": "quanlv",
+      "id": 2
+    }
+  ]
+}
