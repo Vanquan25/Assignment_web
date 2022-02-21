@@ -30,6 +30,12 @@ const adminEdit = {
                         </div>
                       </div>
                       <div>
+                      <label for="company-website" class="block text-sm font-medium text-gray-700">
+                            Price
+                          </label>
+                      <input type="text" id="price-post" class="border border-black" placeholder="Price"/>
+                      </div>
+                      <div>
                         <label for="about" class="block text-sm font-medium text-gray-700">
                         Product Image
                         </label>
@@ -92,6 +98,7 @@ const adminEdit = {
             update({
                 id,
                 title: document.querySelector("#title-post").value,
+                price: document.querySelector("#price-post").value,
                 img: imgLink || imgPreview.src,
                 desc: document.querySelector("#desc-post").value,
             });
