@@ -58,7 +58,6 @@ const adminEdit = {
                   </div>
                       </form>
                   </div>
-                  <!-- /End replace -->
               </div>
               </main>
           </div>
