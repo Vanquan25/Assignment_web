@@ -8,7 +8,8 @@ const Add = {
         ${NavAdmin.render()}
                 <main class="flex-1 overflow-x-hidden overflow-y-auto bg-gray-200">
                     <div class="container mx-auto px-6 py-8">
-                        <h3 class="text-gray-700 text-3xl font-medium"></h3>
+                    <a href="/admin/list" class="text-gray-700 text-3xl font-medium">Quay lại</a>
+                    </div>
             <div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
                 <div class="px-4 py-6 sm:px-0">
                     <form id="form-add-post">
