@@ -2,6 +2,7 @@ import { get } from "../api/posts";
 import Banner from "../components/banner";
 import Footer from "../components/footer";
 import Header from "../components/header";
+import { addToCart } from "../utils/cart";
 
 const DetailPage = {
     async render(id) {
@@ -68,7 +69,7 @@ const DetailPage = {
             </svg>
           </div>
 
-          <button type="button" class="h-14 px-6 py-2 font-semibold rounded-xl bg-indigo-600 hover:bg-indigo-500 text-white">
+          <button id="btnAddToCart" type="button" class="h-14 px-6 py-2 font-semibold rounded-xl bg-indigo-600 hover:bg-indigo-500 text-white">
             Add to Cart
           </button>
         </div>
@@ -80,6 +81,15 @@ const DetailPage = {
         ${Footer.render()}
       </div>
         `;
+    },
+    afterRender(id) {
+        const btnAddToCart = document.querySelector("#btnAddToCart");
+        btnAddToCart.addEventListener("click", async () => {
+            const { data } = await get(id);
+            addToCart({ ...data, count: 1 }, () => {
+                console.log("được gọi sau khi add to cart nè");
+            });
+        });
     },
 };
 export default DetailPage;
