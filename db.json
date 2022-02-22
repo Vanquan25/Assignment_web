@@ -24,7 +24,7 @@
     {
       "id": "35",
       "title": "Áo chống nắng thể thao trắng (AXH-176)",
-      "price": "315.000 Đ",
+      "price": "285.000 Đ",
       "img": "http://res.cloudinary.com/ecommercer2021/image/upload/v1645155801/qfc1pz97u6tjxpnv8vt8.jpg",
       "desc": "Giảm 20% - Áo chống nắng thể thao trắng mã AXH-176, mẫu áo gió chống nắng mỏng cao cấp dành cho mùa hè này. Áo thiết kế thể thao trẻ trung với màu trắng sáng nổi bật. Được làm từ vải đặc biệt chống tia UV tốt, phù hợp với hoạt động ngoài trời."
     },
@@ -70,6 +70,12 @@
       "password": "$2a$10$OomjOBUOL2X9UcUoV.Qu8eznkSl69f4yIJR/ZQNvFGSluDaibCzOe",
       "username": "quanlv",
       "id": 2
+    },
+    {
+      "email": "quanlvph123@gmail.com",
+      "password": "$2a$10$zucjWIjqVxg6rGPEjB.YBuPY2M7wCwnMWiErvq6ha861DYFZbY1CK",
+      "username": "quanlvp",
+      "id": 3
     }
   ]
 }
