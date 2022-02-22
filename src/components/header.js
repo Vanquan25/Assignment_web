@@ -29,7 +29,7 @@ const Header = {
             </li>
             <li>
               <a
-                href="/product"
+                href="/products"
                 class="transition duration-200 ease-in-out block p-5 hover:bg-indigo-500 hover:text-white"
                 >Áo thun</a
               >
